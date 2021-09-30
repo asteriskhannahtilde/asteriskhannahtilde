@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asteriskhannahtilde
 - 👀 I’m interested in ... optimizing core values for humanity 
-- 🌱 I’m currently learning ... [...] skills
-- 💞️ I’m looking to collaborate on ... ways to keep calm
+- 🌱 I’m currently learning ... [advancing my technical] skills
+- 💞️ I’m looking to collaborate on ... applied sciences and vocational skills geared towards healing
 - 📫 How to reach me ... hannah@bypass.la
 
 <!---
